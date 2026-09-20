@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added an `agent-brain/` example extension: the agent's brain — long-term memory across sessions with `memory_search`/`memory_save`/`memory_update` tools, a confidence-graded user profile, open loops, an evolution log, and automatic memory closeout after substantial tasks.
+
 ## [0.86.1] - 2026-09-20
 
 ### New Features
